@@ -1,6 +1,6 @@
 # Project MindMap
 
-Project MindMap is an interactive mind mapping application built using Python. This app allows users to create, customize, and save mind maps, providing a visual representation of ideas and concepts. The source code for Project MindMap can be found in the 'project_mindmap.py' Python file, and is available as a standalone, executable application here:   [Download Project MindMap](https://github.com/aboliveira1/project-mindmap/releases/download/v1.0/project_mindmap.exe)
+Project MindMap is an interactive mind mapping application built using Python. This app allows users to create, customize, and save mind maps, providing a visual representation of ideas and concepts. The source code for Project MindMap can be found in the **'project_mindmap.py'** Python file, and is available as a standalone, executable application here:   [Download Project MindMap](https://github.com/aboliveira1/project-mindmap/releases/download/v1.0/project_mindmap.exe)
 
 
 <div align="center">
